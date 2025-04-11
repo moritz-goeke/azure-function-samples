@@ -172,8 +172,6 @@ The following environment variables must be set in a `.env` file for the functio
    npm install
    ```
 
-````
-
 2. Start the Azure Functions runtime:
 
    ```bash
@@ -217,5 +215,3 @@ The project uses the following key dependencies:
 This is only to get a start with the most basic functions! Feel free to adapt and improve.
 
 Happy coding!
-
-````
